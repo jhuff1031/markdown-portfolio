@@ -1,5 +1,5 @@
-* __Drawings__ :pencil:
-* _Comics_ :book:
+* __Drawings__
+* _Comics_
   * Marvel
   * DC Comics
     - Batman
