@@ -1,4 +1,4 @@
-* **Drawings** :pencil:
+* __Drawings__ :pencil:
 * _Comics_ :book:
   * Marvel
   * DC Comics
