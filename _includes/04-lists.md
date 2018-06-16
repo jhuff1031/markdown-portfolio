@@ -1,5 +1,5 @@
-* __Drawings__
-* _Comics_
+* Drawings
+* Comics
   * Marvel
   * DC Comics
     - Batman
